@@ -31,8 +31,8 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '9beztd$!u=pl$po6w3_2rk8!a922)+
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '165.22.18.140', 
-    'www.janisme.com' ]
+    '46.101.147.135', 
+    'janisme.com' ]
 
 
 # Application definition
