@@ -16,4 +16,4 @@ class AboutPageView(TemplateView):
     template_name = 'about.html'
 
 class MainPageView(TemplateView):
-    template_name ='indexing.html'
+    template_name ='index.html'
